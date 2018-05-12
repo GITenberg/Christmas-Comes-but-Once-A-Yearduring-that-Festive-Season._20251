@@ -24,6 +24,8 @@ creator:
     gutenberg_agent_id: '9186'
     url: http://www.gutenberg.org/2009/agents/9186
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20251#Christmas-Comes-but-Once-A-Yearduring-that-Festive-Season.
 gutenberg_bookshelf: Christmas
 gutenberg_issued: '2007-01-02'
 gutenberg_type: Text
