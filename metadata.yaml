@@ -1,0 +1,44 @@
+_repo: Christmas-Comes-but-Once-A-Yearduring-that-Festive-Season._20251
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Dalziel, George
+    birthdate: 1815
+    deathdate: 1902
+    gutenberg_agent_id: '32424'
+    url: http://www.gutenberg.org/2009/agents/32424
+  - agent_name: Dalziel, Edward
+    birthdate: 1817
+    deathdate: 1905
+    gutenberg_agent_id: '32392'
+    url: http://www.gutenberg.org/2009/agents/32392
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Leighton, John
+    alias: Limner, Luke
+    birthdate: 1822
+    deathdate: 1912
+    gutenberg_agent_id: '9186'
+    url: http://www.gutenberg.org/2009/agents/9186
+description: ''
+gutenberg_bookshelf: Christmas
+gutenberg_issued: '2007-01-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20251'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Christmas stories'
+title: 'Christmas Comes but Once A Year
+
+  Showing What Mr. Brown Did, Thought, and Intended to Do,
+
+  during that Festive Season.'
+url: http://www.gutenberg.org/ebooks/20251
